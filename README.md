@@ -112,6 +112,7 @@ A static web site generator is an application that takes plain text files and co
 - [OkiDoki](https://okidoki.dev/) - `#Markdown` `#Handlebars` `#JavaScript`
 - [Slate](https://github.com/lord/slate) - `#Ruby`
 - [Sourcey](https://sourcey.com) - Open source documentation platform for OpenAPI specs and markdown. - `#TypeScript`
+- [Stagit](https://codemadness.org/stagit.html) - A complete browsable history of git repositories.
 - [Sphinx](http://sphinx-doc.org/) - `#Python`
 
 ### Science
