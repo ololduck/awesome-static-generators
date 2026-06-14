@@ -96,6 +96,7 @@ A static web site generator is an application that takes plain text files and co
 
 ### Documentation
 
+- [Abbaye](https://vit.am/~ololduck/abbaye/latest/) - Public Software repository browsing/cloning, release pages and software documentation builder.
 - [docmd](https://github.com/mgks/docmd) - Markdown to HTML documentation site generator with custom containers and offline search. - `#Node.js` `#Markdown` `#JavaScript`
 - [Docnado](https://heinventions.github.io/docnado-site) - A rapid documentation tool that will blow you away; batteries and style included. - `#Python` `#Jinja2`
 - [DocPad](https://github.com/docpad/docpad) - `#JavaScript` `#CoffeeScript` `#Node.js`
